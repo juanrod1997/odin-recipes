@@ -1,0 +1,1 @@
+The purpose of this project is to practical the HTML knowledge I've gained to this point, in form of a website that links to recipes. 
